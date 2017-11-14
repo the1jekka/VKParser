@@ -1,0 +1,6 @@
+framework module Pods_VKParser {
+  umbrella header "Pods-VKParser-umbrella.h"
+
+  export *
+  module * { export * }
+}
